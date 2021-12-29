@@ -9,9 +9,8 @@ meetup: https://www.meetup.com/denver-bitdevs/events/282933210
 
 - Respect people's privacy
 - Interaction and asking Questions are encouraged
-- Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg)
+- Join our Telegram group (https://t.me/denver_bitdevs)
 - [Everyone is hiring right now](https://bitcoinerjobs.co/)
-- [Houston Hackathon](https://www.eventbrite.com/e/ho-ho-houston-hacks-the-chain-tickets-215922328497)
 
 ## Security
 

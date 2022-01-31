@@ -69,3 +69,4 @@ meetup: https://www.meetup.com/denver-bitdevs/events/282933210
 - [Liquid Taproot Script Explorer](https://twitter.com/script_wizard/status/1468562582697123844)
 - [OP_RETURN botnets](https://twitter.com/chainalysis/status/1469348139756883979)
 - [Bitcoin Menorah](https://twitter.com/JeremyRubin/status/1465076638748577794?s=20)
+- [Generating Entropy with a Geiger Counter](https://twitter.com/Arceris_btc/status/1435692937153744898?s=20)
